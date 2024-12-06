@@ -1,14 +1,13 @@
 <img style="float: right" src="ava.jpg">
 
-* **Location:** Iziaslav, Khmelnytskyi Oblast, Ukraine
+* **Location:** Killarney, Co. Kerry, Ireland
 * **Email:** root@yurikoles.com
 * **Skype:** yurikoles
-* **Mobile:** +380936939343
+* **Mobile:** +353851953851
 * **LinkedIn:** [linkedin.com/in/yurikoles](https://linkedin.com/in/yurikoles)
 * **Github:** [github.com/yurikoles](https://github.com/yurikoles)
 * **CodersRank:** [profile.codersrank.io/user/yurikoles](https://profile.codersrank.io/user/yurikoles)
 * **The latest version of this CV is always here:**
-  * **Google Doc** format: [doc.yurikoles.com](https://doc.yurikoles.com)
   * **Web** format: [yurikoles.com](https://yurikoles.com)
 
 # Objective
