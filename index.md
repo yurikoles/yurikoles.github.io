@@ -7,8 +7,6 @@
 * **LinkedIn:** [linkedin.com/in/yurikoles](https://linkedin.com/in/yurikoles)
 * **Github:** [github.com/yurikoles](https://github.com/yurikoles)
 * **CodersRank:** [profile.codersrank.io/user/yurikoles](https://profile.codersrank.io/user/yurikoles)
-* **The latest version of this CV is always here:**
-  * **Web** format: [yurikoles.com](https://yurikoles.com)
 
 # Objective
 * Long term full-time remote software development contract with an open-minded company.
